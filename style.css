@@ -1,0 +1,35 @@
+
+
+.post-header {
+    width: 100%;
+    height: 10%;
+    display: flex;
+}
+
+.post {
+    background-color: white;
+    width: 40%;
+    height: 80%;
+    z-index: 1;
+    margin: auto;
+   
+}
+
+.post-footer {
+    width: 100%;
+    margin-top: 10px;
+}
+
+img {
+    width: 95%;
+}
+
+i {
+    display: inline;
+    font-size: 25px;
+}
+
+.right-column {
+    display: inline-block;
+    margin-left: 78%;
+}
